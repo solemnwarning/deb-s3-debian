@@ -1,2 +1,3 @@
 yy-lock-enhancement.patch
 fix-dpkg-invocation.patch
+clean-command.patch
