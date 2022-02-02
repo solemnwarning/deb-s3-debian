@@ -1,10 +1,10 @@
 deb-s3 (0.11.3-2) bullseye; urgency=medium
 
- * Add "clean" command to delete unreferenced packages from the pool.
+  * Add "clean" command to delete unreferenced packages from the pool.
 
- * Add dpkg invocation fix.
+  * Add dpkg invocation fix.
 
- * Add locking fixes from Yamashita, Yuu
+  * Add locking fixes from Yamashita, Yuu
 
  -- Daniel Collins <daniel.collins@solemnwarning.net>  Wed, 02 Jan 2022 22:26:57 +0000
 
